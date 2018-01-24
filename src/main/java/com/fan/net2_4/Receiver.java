@@ -1,4 +1,4 @@
-package com.fang.net2_4;
+package com.fan.net2_4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

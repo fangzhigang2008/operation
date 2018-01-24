@@ -1,4 +1,4 @@
-package com.fang.net;
+package com.fan.net;
 
 import java.io.IOException;
 import java.net.Socket;
