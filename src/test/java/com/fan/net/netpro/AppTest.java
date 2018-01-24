@@ -1,4 +1,4 @@
-package com.fang.net.netpro;
+package com.fan.net.netpro;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
